@@ -1,5 +1,5 @@
 # StudioSpace
- 
+
 A modern studio booking platform where users can discover creative spaces, explore studio details, and book studios for their projects.
 
 ## Project Overview
